@@ -1,0 +1,14 @@
+This is the section where you will put all information you need about your mod.<br>
+This information may include:
+<ul>
+<li>Mod items</li>
+<li>Recipes</li>
+<li>Backstory</li>
+<ul>
+<li>why you made the mod</li>
+</ul>
+<li>Anything else</li>
+</ul>
+Everything is written in pure html, so don't be afraid to do things such as
+<div style="padding-left=10%">Add padding</div>
+Or anything else.
