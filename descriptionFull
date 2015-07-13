@@ -10,5 +10,8 @@ This information may include:
 <li>Anything else</li>
 </ul>
 Everything is written in pure html, so don't be afraid to do things such as
-<div style="padding-left=10%">Add padding</div>
-Or anything else.
+<div style="padding-left:10%;">Add padding</div>
+Or anything else, such as
+<div style="background:#CCC;color:#000;">
+Change text colours, or add a different background.
+</div>
